@@ -10,7 +10,7 @@ class Calculator
 		
 		Console.WriteLine("\tekan sembarang key untuk keluar");
 		Console.Readkey();
-	
+	//key
 	}
 	static int penambahan (int a, int b);{
 		return a+b;
